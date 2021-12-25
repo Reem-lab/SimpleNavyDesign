@@ -4,7 +4,7 @@
 
 > A Simple design for website navy company made with vanilla html and css .
 
-![screenshot](images/app_screenshot.png)
+![screenshot](images/app_screenshot.PNG)
 
 ## Built With
 
