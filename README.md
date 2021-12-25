@@ -14,4 +14,4 @@
 
 ## Live Demo
 
-[Live Demo Link](https://reem-lab.github.io/MyPortfolio/)
+[Live Demo Link](https://reem-lab.github.io/SimpleNavyDesign/)
